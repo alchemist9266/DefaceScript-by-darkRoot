@@ -7,3 +7,6 @@ Note : if you want to modified it just click, Edit with notepad, or other.
 
 # Credit : 
 Credit to all my friends and all my family :D
+
+# Shoutout
+If you are using this, then give a credit/shoutout to me, Ty!
